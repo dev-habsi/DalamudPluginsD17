@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dev-habsi/Lisan.git"
-commit = "277fad5902a836dbcb1cb15491ac9e70d4b7bc2d"
+commit = "3809edc80c17b2dc2d8379aba7026e95d3becf45"
 owners = ["dev-habsi"]
 project_path = "Lisan"
 changelog = "Initial release."
